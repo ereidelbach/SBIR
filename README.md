@@ -21,7 +21,7 @@ The SBIR program is structured in three phases:
 
 * <i>Phase III</i>. The objective of Phase III, where appropriate, is for the small business to pursue commercialization objectives resulting from the Phase I/II R/R&D activities. The SBIR program does not fund Phase III. Some Federal agencies, Phase III may involve follow-on non-SBIR funded R&D or production contracts for products, processes or services intended for use by the U.S. Government.
 
-Each agency with R&D budgets that exceed $100 million are required to allocate 3.2% (FY 2017) of their R&D budget to these programs.
+Each agency with R&D budgets that exceed $100 million are required to allocate 3.2% (FY 2017) of their R&D budget to these programs."
 
 The 11 participating agencies from the federal government are as follows:
 
