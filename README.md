@@ -1,4 +1,4 @@
-![Project Logo](https://github.com/ereidelbach/SBIR/blob/master/projectLogo.jpg)
+![Project Logo](https://github.com/ereidelbach/SBIR/blob/master/projectLogo.png)
 
 ----
 
