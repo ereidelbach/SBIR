@@ -4,7 +4,7 @@
 
 # Project Description
 
-The purpose of this project is to conduct an analysis of SBIR topics and winning abstracts over the past decade. The analysis will shed light on any trends in topics, desired research areas and/or desired tools in the analytics domain to highlight where future SBIR efforts may be warrented.
+The purpose of this project is to conduct an analysis of SBIR topics and winning abstracts over the past three decades. The analysis will shed light on any trends in topics, desired research areas and/or desired tools in the analytics domain to highlight where future SBIR efforts may be warrented.
 
 Per reference 1, "The Small Business Innovation Research (SBIR) program is a highly competitive program that encourages domestic small businesses to engage in Federal Research/Research and Development (R/R&D) that has the potential for commercialization. Through a competitive awards-based program, SBIR enables small businesses to explore their technological potential and provides the incentive to profit from its commercialization. By including qualified small businesses in the nation's R&D arena, high-tech innovation is stimulated and the United States gains entrepreneurial spirit as it meets its specific research and development needs."
 
@@ -56,5 +56,13 @@ The 11 participating agencies from the federal government are as follows:
 # Resources:
 
 1. Official SBIR Homepage: [Link][13]
+2. Open SBIR Topic Windows: [Link][14]
+3. List of Open/Closed SBIR Topics dating back to 2008: [Link][15]
+4. List of SBIR awards dating back to 1983: [Link][16]
 
   [13]: https://www.sbir.gov/
+  [14]: https://www.sbir.gov/solicitation-listing/open
+  [15]: https://www.sbir.gov/sbirsearch/topic/past
+  [16]: https://www.sbir.gov/sbirsearch/award/all
+
+
