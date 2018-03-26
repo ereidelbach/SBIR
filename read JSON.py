@@ -1,14 +1,34 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3.7
 # -*- coding: utf-8 -*-
 """
-Created on Mon Mar 12 09:35:02 2018
+Created on Mon Mar 26 08:35:02 2018
 
 @author: ejreidelbach
+
+description
+
+:REQUIRES:
+   
+:TODO:
 """
 
+#==============================================================================
+# Package Import
+#==============================================================================
 import gzip
 import json
 import pandas as pd
+
+#==============================================================================
+# Function Definitions / Reference Variable Declaration
+#==============================================================================
+
+#==============================================================================
+# Working Code
+#==============================================================================
+
+# Set the project working directory
+os.chdir(r'/home/ejreidelbach/')
 
 # Read in one JSON file
 f = "/home/ejreidelbach/Data-Sets/SBIR Data/merged_dataset.json.gz"
@@ -23,3 +43,4 @@ for line in stream:
     report = json.loads(line)
     
     report.head
+
