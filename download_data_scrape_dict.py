@@ -22,10 +22,6 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import time
 
-'''
-
-'''
-
 #==============================================================================
 # Function Definitions / Reference Variable Declaration
 #==============================================================================
@@ -44,7 +40,8 @@ files = sorted(files)
 
 # Set the project working directory
 os.chdir(r'/home/ejreidelbach/projects/SBIR/Data/')
-for f in files:
+#for f in files:
+for f in files[14:]:
     print("Reading in "+f)
 
     # Get the links for every file in a specific year
@@ -159,9 +156,9 @@ for f in files:
         print(awardCount)
         awardCount+=1
         
-        time.sleep(5)
+        #time.sleep(5)
     
     # Export the data set
-    filename = 'Awards_Scraped/Phase 1_' + f
+    filename = 'Awards_Scraped/Phase 1/Phase1_' + f
     with open(filename, 'wt') as out:
         json.dump(awardInfo, out, sort_keys=True, indent=4, separators=(',', ': ')) 
