@@ -32,7 +32,7 @@ import time
 #==============================================================================
 
 # Set the project working directory
-os.chdir(r'/home/ejreidelbach/projects/SBIR/Data/Awards/Phase 1/')
+os.chdir(r'/home/ejreidelbach/projects/SBIR/Data/Awards_API/Phase 1/')
 
 # Read in all Files
 files = [f for f in os.listdir('.') if f.endswith(('.json'))]
@@ -41,11 +41,11 @@ files = sorted(files)
 # Set the project working directory
 os.chdir(r'/home/ejreidelbach/projects/SBIR/Data/')
 #for f in files:
-for f in files[14:]:
+for f in files:
     print("Reading in "+f)
 
     # Get the links for every file in a specific year
-    with open('Awards/Phase 1/'+f) as json_data:
+    with open('Awards_API/Phase 1/'+f) as json_data:
         data = json.load(json_data)
     df = pd.DataFrame(data)
     addressList = df['link']
@@ -69,7 +69,9 @@ for f in files[14:]:
         # Insert the Award URL
         tempAwardInfo.append(url.encode('ascii','ignore'))
         
-        # Grab Award Information
+        # Grab Award Information (Agency, Branch, Contract, Agency Tracking Number, 
+        #       Amount, PHase, Program, Award Year, Solicitation Year, Solicitation
+        #       Topic Code, Solicitation Number)
         awardHTML = soup.find('div', {'class':'container-fluid'})
         for div in awardHTML.find_all('div', {'class':'col-md-6'}):
             for row in div.find_all('span', {'class':'open-description'}):
@@ -81,19 +83,27 @@ for f in files[14:]:
                 
         tempAwardInfo[6] = float(tempAwardInfo[6].strip('$').replace(',',''))
             
-        # Grab Business Information
+        # Grab Business Information (Business Name, Business URL, Address, DUNS, 
+        #       Hubzone Owned, Woman Owned, Socially Disadvantaged, PI, 
+        #       Business Contact)
         busHTML = soup.find('div', {'class':'small-business-info-wrapper'})
-        tempAwardInfo.append(busHTML.find('div', {'class':'sbc-name-wrapper'}).text.encode(
+        tempAwardInfo.append(busHTML.find(
+                'div', {'class':'sbc-name-wrapper'}).text.encode(
                 'ascii','ignore').strip())
-        tempAwardInfo.append('https://www.sbir.gov'+busHTML.find(
-                'a')['href'].encode('ascii','ignore').strip())
+        # Attempt to grab business URL
+        try:
+            tempAwardInfo.append('https://www.sbir.gov'+busHTML.find(
+                    'a')['href'].encode('ascii','ignore').strip())
+        except:
+            tempAwardInfo.append('')
         tempAwardInfo.append(busHTML.find('div', {'class':
             'sbc-address-wrapper'}).text.strip().encode('ascii','ignore'))
         for row in busHTML.find_all('span', {'class':'open-description'}):
             tempAwardInfo.append(row.text.encode('ascii','ignore').strip())
         
+        # Business Contact Info (PI, Business Contact...ignore Research Institution)
         busContactHTML = soup.find('div', {'class':'row award-sub-wrapper'})
-        for row in busContactHTML.find_all('div', {'class':'award-sub-description'}):
+        for row in busContactHTML.find_all('div', {'class':'award-sub-description'})[:2]:
             if (row.text.strip() != 'N/A'):
                     temp = row.text.encode('ascii','replace').replace(
                             '?',' ').strip().replace('&nbsp','').replace(';','')
@@ -115,11 +125,19 @@ for f in files[14:]:
                                 'Email:')[1].strip())
                     except:
                         tempAwardInfo.append('')
+            else:
+                tempAwardInfo.append('N/A') #Name
+                tempAwardInfo.append('N/A') #Phone
+                tempAwardInfo.append('N/A') #Email
         
         # Grab Abstract
         abstractHTML = soup.find('div',{'class':'abstract-wrapper'})
-        tempAwardInfo.append(abstractHTML.text.encode(
-                'ascii','ignore').strip().replace('\n',' '))
+        abstract = abstractHTML.text.encode(
+                'ascii','ignore').strip().replace('\n',' ')
+        if abstract == 'Abstract         N/A':
+            tempAwardInfo.append('N/A')
+        else:
+            tempAwardInfo.append(abstract)
         
         awardDict = {}
         
