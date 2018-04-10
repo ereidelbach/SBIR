@@ -40,7 +40,6 @@ files = sorted(files)
 
 # Set the project working directory
 os.chdir(r'/home/ejreidelbach/projects/SBIR/Data/')
-#for f in files:
 for f in files:
     print("Reading in "+f)
 
