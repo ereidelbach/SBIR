@@ -1,0 +1,1210 @@
+[
+    {
+        "topic_name": "Open Design Tools for Speech Signal Processing
+(R43\/R44)",
+        "description": "Purpose\nThis Funding Opportunity Announcement
+(FOA) seeks applications to design, test, and disseminate acoustic
+signal processing tools that have the potential to accelerate research
+studies and facilitate translation of novel algorithms into use with
+hearing aids, cochlear implants, personal sound processors, and consumer
+ electronic devices.\nBackground\nOpen hardware and software designs
+that are widely shared and readily reconfigured by the end user have
+become increasingly popular with many engineering communities, including
+ those engaged in biomedical research. Open designs allow users to
+enhance specific features and retain other aspects of a shared design
+without modification. Proprietary designs, by contrast, are subject to
+commercial interests that can restrict the level of documentation
+provided on its design.&amp;nbsp; Commercial constraints also encourage
+manufacture of instrument architectures that support broadly applicable
+techniques as opposed to tools that can be reconfigured as needed to
+track an evolving set of scientific questions.\nOpen designs allow for
+rapid implementation of new features driven by the needs of a single
+researcher or a large user community.&amp;nbsp; Study results can be
+published and replicated with greater clarity by reference to the
+original base instrument design. System enhancements can be widely
+shared and benefit from collaborative design and validation procedures
+that acknowledge contributions from all team members, innovators and
+users alike. The net result is that the overall pace of research can be
+accelerated when open design tools are used. NIDCD held a workshop in
+October, 2014, to discuss the potential value of a research tool that
+employs open design principles to provide continued enhancements in the
+computing power available in a portable form factor and to accelerate
+research and development of bold new algorithms for the field of
+acoustic signal processing for speech enhancement and noise
+reduction.\nThe summary of the discussion from this workshop is
+available on the NIDCD website (http:\/\/www.nidcd.nih.gov\/openspeech),
+ which describes specific needs articulated by the research community.
+Participants agreed that access to a shared and open tool would lower
+barriers for hardware and software refinement, accelerate studies with
+novel acoustic processing algorithms, and facilitate translation of
+these advances into widespread use with hearing aids, cochlear implants,
+ and consumer electronics devices.&amp;nbsp; The panel of experts also
+noted that development of this tool would require considerable effort
+and substantial infrastructure to support both the initial development
+phase and an extended period of interactions across different research
+laboratories to establish widespread use.\nResearch Objectives\nThis
+Funding Opportunity Announcement (FOA) invites applications with plans
+to design, test, and disseminate open design signal processing tools
+with the potential to accelerate research and translation for acoustic
+psychophysical research. This will require development of algorithms,
+test data, and validation procedures for use at the benchtop and for use
+ with human subjects. Curation and dissemination of software as both
+open source code and executable binary code will be required. Portable
+hardware systems will be required to run this software in a variety of
+research studies. Applications should provide initial plans for the
+design of this hardware along with a roadmap for selling enhanced
+revisions that provide significant increments in computational power and
+ other enhancements needed to support research studies such as wireless
+connectivity.\nThis FOA and its companion open to the broader research
+community will be used to support grant awards that will run
+concurrently.&amp;nbsp; Some overlap is expected for development efforts
+ supported under different awards to different groups. This is
+intentional and necessary to foster a high level of activity across the
+research community and to encourage constructive competition between
+different approaches in order to identify the merits and costs for
+different approaches. Both FOAs will support research and development to
+ create and disseminate libraries of open source software and signal
+processing frameworks that can be reconfigured by users to accelerate
+the pace of their individual research programs. Open source code must be
+ easily reconfigurable and clearly documented. &amp;nbsp;Compiled
+"system images" that are validated and ready for use on hardware
+available for purchase must be disseminated as well.\nResponsive SBIR
+applications will describe plans to design, vend, and enhance hardware
+platforms on an ongoing basis throughout the award. Plans for continued
+redevelopment of the hardware platforms to provide substantial
+increments in the computational power over the project period will be
+needed.&amp;nbsp; System designs that allow users to extend or
+reconfigure the hardware can be proposed. SBIR Awards made under this
+FOA, as compared to the companion FOA, will be uniquely suited to
+hardware design and vending efforts, as well as servicing user requests
+to resolve issues arising from individual attempts to use these
+tools.\nThe open design approach will require a unique emphasis on
+outreach and dissemination activities to ensure widespread and effective
+ use of these research tools by outside laboratories. Curation of
+websites with user support forums, answers to common user questions, and
+ the means to distribute software updates is encouraged. Other
+activities intended to support effective use and reconfiguration of this
+ research tool by outside laboratories can be proposed. Agile software
+development methods are encouraged in order to gain feedback from users,
+ build consensus among users, and identify emerging needs based on
+ongoing research. A "waterfall model" of sequential design steps leading
+ to distribution of a final product near the end of the project will not
+ be considered responsive to this funding opportunity.\nActivities
+encouraged under this FOA include, but are not limited to, development
+of:\n&amp;nbsp;\n\nA comprehensive system that includes all functions
+widely recognized as essential features for a hearing aid, such as
+acoustic feedback cancellation and multiband amplitude compression.
+These functions should be provided as both source code and a compiled,
+binary image that can be run on various target platforms to support
+research studies of hearing aid signal processing.\nFunction libraries
+that support areas of active research for speech signal processing, such
+ as algorithms for various forms of speech enhancement, noise reduction,
+ dynamic gain adjustment, frequency lowering, and other types of
+acoustic processing, which can be linked into the comprehensive system
+noted above.\nDevelopment of validation procedures will be needed to
+demonstrate proper operation of functions in the code library as
+originally written, and to support future efforts to port software to
+new hardware, optimize specific sections of code, or develop alternative
+ processing algorithms. Performance benchmarks will be needed to
+quantify important differences between alternate implementations of
+similar functions.\nA variety of system architectures may be needed to
+provide different operating modes such as very short audio latency with
+restricted amounts of processing vs. relatively long latencies that
+allow more comprehensive processing algorithms to operate. Audio
+latency, e.g. the time delay between presentation of a raw sound at the
+microphone input and the processed variant at a speaker, will require
+careful consideration throughout the design and development activities.
+&amp;nbsp;\n",
+        "agency": "Department of Health and Human Services,Department of
+ Health and Human Services",
+        "phase": "Phase II",
+        "program": "SBIR",
+        "release_date": "September 01, 2015",
+        "open_date": "September 01, 2015",
+        "close_date": "October 01, 2015",
+        "url":
+"http:\/\/grants.nih.gov\/grants\/guide\/rfa-files\/RFA-DC-16-002.html"
+    },
+    {
+        "topic_name": "HHS SBIR RFA-HL-14-012",
+        "description": "\n\tPurpose\n\n\tA major objective of the Small
+Business Innovation Research (SBIR) Program is to facilitate the
+commercialization of technologies developed by small business concerns
+(SBCs). The development of biomedical products is often impeded by a
+significant funding gap between the end of the SBIR Phase II award and
+the commercialization stage. This gap is increased by the barriers
+associated with technologies under development for small commercial
+markets, such as rare diseases or young pediatric populations. This
+Funding Opportunity Announcement (FOA) solicits SBIR grant applications
+from SBCs to support later stage research and development (referred to
+as Phase IIB) for promising projects that were previously funded by SBIR
+ Phase II awards that address rare diseases or young pediatric
+populations (aged 0-12 years and defined in Section IV, part 6), and
+will require eventual Federal regulatory approval\/clearance. The goal
+of this FOA and the resulting Phase IIB awards is to assist applicants
+in pursuing the next appropriate milestone(s) necessary to continue
+development with private funding after NHLBI support ends by promoting
+partnerships between SBIR Phase II awardees and third-party investors
+and\/or strategic partners.\n\n\t\n\t\tThis FOA will give competitive
+preference and funding priority to applicants that secure independent
+third-party investor funds that equal or exceed one-third of the
+requested NHLBI funds (total costs).\n\t\n\t\tThis FOA is specifically
+intended to benefit patients by accelerating the commercialization of
+novel products and technologies that address a rare disease or young
+pediatric populations.\n\t\n\t\tProposed projects MUST be relevant to
+the NHLBI mission (see B. Scientific\/Technical Scope) and require
+ultimate approval\/clearance by a Federal regulatory
+agency.\n\n\n\tBackground\n\n\tSince its inception in 1982, the NIH SBIR
+ program has provided the small business community with seed funding to
+support the development of a broad array of commercial products to
+detect, diagnose, treat, and prevent disease.&amp;nbsp; It provides an
+important mechanism for bringing new interventions to patients and
+clinicians. The SBIR program is structured in three phases. The
+objective in Phase I is to establish the technical merit and feasibility
+ of a proposed research and development (R&amp;amp;D) effort, while in
+Phase II it is to continue the R&amp;amp;D effort for successful Phase I
+ projects. The expectation is that in Phase III, an SBC will be able to
+complete commercialization with non-NIH funds. However, many projects
+initiated with SBIR funding require considerable financing beyond the
+SBIR Phase II award to complete the necessary validation studies
+required to arrive at Phase III. In particular, the development of
+therapeutics, medical devices, and combined technologies often requires a
+ number of years and substantial capital investments because of the
+costs associated with conducting clinical trials and\/or other steps
+mandated by the federal regulatory approval process. Companies
+developing products that have small potential revenue streams or target
+small patient populations face additional barriers to market entry that
+make them less attractive at pre-clinical or early clinical stages of
+development to investors and strategic partners. In addition, many of
+these technologies require complex clinical trial designs because of
+small and geographically diverse patient populations. Thus, despite the
+extensive R&amp;amp;D efforts during Phase II projects in these areas,
+the results are often insufficient to attract private investments needed
+ for the eventual commercialization of a product.\n\n\tThis FOA is
+designed to address this funding gap for technologies primarily focused
+on rare diseases or young pediatric populations. A major goal of this
+FOA is to provide a platform to incentivize partnerships between SBIR
+awardees and a broad range of potential third-party investors. It is
+anticipated that funding by third-party investors will be predicated on
+significant due diligence, thus encouraging awardees to formulate
+credible business plans for product commercialization. In addition, it
+is expected that third-party investors will maintain an active role in
+supporting the awardee during the product development phase and during
+pursuit of follow-on funding for the SBIR Phase III commercialization
+stage.\n\n\tThe NHLBI has published a separate FOA, the Bridge Award
+(RFA-HL-13-016), to address a similar critical gap for projects that do
+not meet the responsiveness criteria of the Small Market
+Award.\n\n\tSpecific Objectives for SBIR Phase IIB Small Market Award
+Applications\n\n\tA. Independent Third-Party Investor Funds\n\n\tThis
+FOA specifically encourages business relationships between applicant
+SBCs and third-party investors\/strategic partners who can provide
+substantial financing to help accelerate the commercialization of
+promising new products and technologies that were initiated with SBIR
+funding. In particular, applicants are expected to leverage their
+previous SBIR support, as well as the opportunity to compete for
+additional NHLBI funding under this FOA, to attract and negotiate
+third-party financing needed to advance a product or technology toward
+commercialization. The applicant&amp;rsquo;s ability to secure
+independent third-party investor funds that equal or exceed one-third of
+ the total amount of NHLBI funds being requested over the entire project
+ period will help validate the commercial potential that is essential
+for the SBIR projects solicited under this FOA. This potential will be
+strongly considered in review (refer to Section V. Application Review
+Information) and making funding decisions. It is anticipated that many
+of the partnerships between applicant SBCs and third-party investors
+will involve a considerable level of project due diligence by the
+private sector, thereby increasing the likelihood of commercial success
+for the funded projects. In light of these goals, the NHLBI strongly
+encourages applicants to establish business relationships with investors
+ and\/or strategic partners that have appropriate prior experience in
+commercializing emerging biomedical technologies addressing rare
+diseases or young pediatric populations.\n\n\tB. Scientific\/Technical
+Scope\n\n\tThe technical and commercial objectives described in the SBIR
+ Phase IIB Small Market Award application MUST represent an extension of
+ the development efforts that were pursued in a previously funded SBIR
+Phase II award. It is essential that significant progress was
+accomplished during the current\/preceding SBIR Phase II project and
+also that the proposed product\/technology has commercial potential.
+Applicants should also be able to demonstrate that the proposed
+product\/technology has a clear advantage over existing and\/or
+competing products\/technologies and should clearly define an
+appropriate path toward ultimate product commercialization.\n\n\tThis
+FOA is specifically designed to provide additional support for
+products\/technologies that require ultimate approval by a Federal
+regulatory agency.\n\n\tProjects previously funded by another NIH
+Institute\/Center or another Federal agency are eligible to apply under
+this FOA, provided proposed projects are relevant to the NHLBI mission.
+Applicants should contact the NHLBI Scientific\/Research Contact listed
+under Section VII. to discuss whether their proposed project meets this
+criterion.\n\n\tThe NHLBI supports development of technologies to
+detect, prevent, or treat cardiovascular, lung, blood and sleep
+disorders. It also supports research on the clinical use of blood and
+all aspects of the management and safety of blood resources. The NHLBI
+SBIR\/STTR program fosters basic, applied, and clinical research on all
+product and service development related to the mission of the NHLBI. The
+ NHLBI program priority areas for technology development research under
+this FOA include, but are not limited to:\n\n\t\n\t\tBlood Diseases and
+Resources areas: in vitro diagnostic devices and therapeutic biologics,
+devices and drugs for rare diseases, and diseases affecting young
+children and neonates, including, but not limited to, coagulation and
+other laboratory based assays; transfusion\/infusion and
+non-transfusion\/non-infusion treatments for bleeding complications in
+acquired and inherited bleeding disorders; point of care diagnostics for
+ Sickle Cell Disease and other hemoglobinopathies to facilitate testing
+in low resource settings to provide earlier diagnosis and access to
+medical interventions; devices that facilitate transfusion of small
+volumes of blood components; and long-term, indwelling catheters for
+transfusion, blood sample collection or medication administration that
+provide very low thrombosis\/infection risk.\n\t\n\t\tCardiovascular
+Diseases areas: diagnostics, therapeutics&amp;nbsp;(including cell and
+gene therapies), or instruments for treating congenital or acquired
+heart disease in young pediatric populations, including heart pumps and
+valves, atrial septal defect closure devices, surgical tools, and
+devices for cardiac catheterization; diagnostics and therapies for rare
+arrhythmias (such as&amp;nbsp;LQTS-1, -2, and -3, Brugada&amp;rsquo;s,
+and Timothy&amp;rsquo;s syndromes) and&amp;nbsp;lipid disorders (such as
+ lecithin-cholesterol acyltransferase&amp;nbsp;or lipoprotein
+deficiencies or genetic diseases such as Pompe disease); technologies,
+instruments, and therapeutics for heart (and lung) transplantation,
+including devices for perfusion of donor organs and technologies for
+less invasive tissue biopsies and detection of organ
+rejection.\n\t\n\t\tLung Diseases areas: diagnostics and therapeutics
+for rare lung diseases and those affecting young pediatric populations,
+including, but not limited to respiratory distress syndrome, cystic
+fibrosis, adult and pediatric pulmonary arterial hypertension, adult and
+ childhood interstitial lung diseases, Lymphangioleiomyomatosis, and
+sarcoidosis. Examples include, but are not limited to, non-invasive
+monitoring of cardiopulmonary function for neonates and young children,
+portable imaging systems compatible with Intensive Care Unit
+environments, therapies to prevent bronchopulmonary dysplasia, improved
+aerosol delivery devices for young children, portable home diagnostic
+and treatment devices for sleep disordered breathing in young pediatric
+populations.\n\n\n\tThe following provides examples of appropriate
+development activities for this FOA. Responsive applications are not
+limited to the following areas:\n\n\t\n\t\tFor projects pertaining to
+the development of therapeutics, applicants are expected to propose
+activities that will lead to the successful filing of an Investigational
+ New Drug (IND) application or clinical studies to support the filing of
+ a New Drug Application (NDA) and\/or Biological License Application
+(BLA).\n\t\n\t\tFor projects pertaining to imaging technologies,
+interventional devices, and in vivo diagnostics, applicants are expected
+ to propose activities that will lead to the successful filing of a
+Pre-Market Notification, 510(k) application, Premarket Approval (PMA)
+application, or an Investigational Device Exemption (IDE)
+application.\n\t\n\t\tFor projects pertaining to ex vivo or in vitro
+diagnostics, prognostics, and screening tests, applicants are expected
+to propose activities that will lead to the successful filing of a
+510(k) application, Premarket Approval (PMA) application, an
+Investigational New Drug (IND) application, and\/or Investigational
+Device Exemption (IDE) application, as needed for the specific
+technology\/system\/assay.\n\n\n\tActivities to be pursued under this
+FOA should address any relevant requirements for clinical validation and
+ regulatory approval, as necessary and required for commercialization of
+ the technology. Specific activities to be pursued will vary among
+applications.\n\n\tC. Plan for Full Commercialization \n\n\tThe goal of
+the SBIR Phase IIB Small Market Award is to advance SBIR Phase II
+projects toward ultimate commercialization. All applicants are expected
+to describe a realistic plan (extending beyond the SBIR Phase IIB Small
+Market Award project period) that outlines how and when full
+commercialization can be accomplished. The long-term commercialization
+strategy should be presented as part of the Commercialization Plan. The
+full commercialization plan for the product\/technology should extend
+beyond the period of SBIR funding.\n\n\tApplicants are encouraged to
+leverage other available Federal resources where appropriate, including
+existing FDA incentives to increase and accelerate small market product
+development, such as Orphan Drug designation, Humanitarian Device
+Exemption, and the Pediatric Exclusivity Provision. In addition,
+applicants may be eligible to participate in the NIH Therapeutics for
+Rare and Neglected Diseases (TRND) program&amp;nbsp;
+(http:\/\/www.ncats.nih.gov\/research\/rare-diseases\/trnd\/trnd.html)
+and Bridging Interventional Development Gaps (BrIDGs) program
+(http:\/\/www.ncats.nih.gov\/about\/faq\/bridgs\/bridgs-faq.html). To
+enter either TRND or BrIDGs, the applicant needs to apply through a
+separate peer-reviewed open solicitation. Projects selected for either
+of these programs will get in-kind funding and resources to support drug
+ development projects aiming to bring novel therapies to treat rare
+diseases.\n",
+        "agency": "Department of Health and Human Services",
+        "phase": "Phase II",
+        "program": "SBIR",
+        "release_date": "April 16, 2013",
+        "open_date": "May 19, 2013",
+        "close_date": "June 19, 2015",
+        "url":
+"http:\/\/grants.nih.gov\/grants\/guide\/rfa-files\/RFA-HL-14-012.html"
+    },
+    {
+        "topic_name": "HHS SBIR RFA-CA-15-010",
+        "description": "\n\tPurpose\n\n\tThe Small Business Innovation
+Research (SBIR) Program is an important mechanism by which the National
+Institutes of Health (NIH) and other Federal agencies help bring
+innovative solutions to public health challenges. A major objective of
+the Federal SBIR Program is to facilitate the commercialization of
+technologies developed by small business concerns (SBCs). Yet, the
+development of medical biotechnology products is often impeded by a
+significant funding gap, known as the &amp;ldquo;Valley of
+Death,&amp;rdquo; between the end of the SBIR or STTR Phase II award and
+ the commercialization stage. This Funding Opportunity Announcement
+(FOA) solicits SBIR grant applications from SBCs to support later stage
+research and development (referred to as Phase IIB) for projects that
+were previously funded under SBIR or STTR Phase II awards from any
+Federal agency. The goal of this FOA and Phase IIB awards is to assist
+applicants in pursuing the next appropriate milestone(s) necessary to
+advance a product or service along a promising commercialization
+pathway.\n\n\tTo be responsive to this FOA, proposed projects MUST be
+applicable to at least one of the following technical\/scientific
+areas:\n\n\t(1) Cancer Therapeutics;\n\n\t(2) Cancer Imaging
+Technologies, Interventional Devices, and In Vivo Diagnostics;
+and\/or\n\n\t(3) In Vitro and Ex Vivo Cancer Diagnostics and
+Prognostics.\n\n\tThese Bridge Awards are designed to facilitate the
+continuation of promising SBIR or STTR Phase II projects in order to
+pursue the next appropriate milestone(s) toward ultimate
+commercialization. To achieve this goal, this FOA is designed to promote
+ partnerships between Federally-funded SBIR or STTR Phase II awardees
+and third-party investors and\/or strategic partners.\n\n\tIn
+particular, competitive preference and funding priority will be given to
+ applications deemed likely to result in a commercial product or service
+ as indicated by the applicant&amp;rsquo;s ability to secure substantial
+ independent third-party investor funds (i.e., third-party funds that
+equal or exceed the requested NCI funds). NCI support is thus intended
+to benefit cancer patients by accelerating the development of novel
+cancer-relevant products and services toward
+commercialization.\n\n\tThis FOA is specifically intended to provide
+additional support for products and services that require ultimate
+approval by a Federal regulatory agency; therefore, proposed projects
+may address preclinical and\/or clinical stages of development
+(including clinical trials).\n\n\tBackground\n\n\tSince its inception in
+ 1982, the SBIR program at the NIH (and other Federal agencies) has
+provided the small business community with critical seed funding to
+support the development of a broad array of commercial products and
+services for the detection, diagnosis, treatment, and prevention of
+disease. The SBIR Program is structured in three phases. The main
+objective in Phase I is to establish the technical merit and feasibility
+ of the proposed research and development (R&amp;amp;D) efforts, whereas
+ in Phase II it is to continue the R&amp;amp;D efforts to advance the
+technology toward ultimate commercialization. The objective in Phase III
+ is for the small business to fully commercialize their product or
+service using non-SBIR funds. However, many of the early-stage projects
+initiated with SBIR or STTR funding require considerable financing
+beyond the SBIR or STTR Phase II award to achieve commercialization. In
+particular, the development of therapeutics and medical devices often
+requires several years and substantial capital investments, due in large
+ part to the costs associated with conducting clinical trials and\/or
+other steps mandated by the Federal regulatory approval
+process.\n\n\tAmong the areas of R&amp;amp;D supported by the Federal
+SBIR program, cancer therapeutics, imaging technologies, interventional
+devices, diagnostics and prognostics typically require substantial
+levels of additional financing beyond the SBIR Phase I and Phase II
+funding. Moreover, a number of emerging products in these areas are
+becoming increasingly complex due to the technological advances in
+multi-disciplinary fields. For example, new products may involve
+measurements of both physical and molecular signatures, combine
+device(s) and molecular probe(s), or perform dual functions of diagnosis
+ and therapy. These products are referred to as &amp;ldquo;combined
+technologies&amp;rdquo; by the Food and Drug Administration (FDA), and
+examples in oncology include those related to genomics, proteomics,
+certain approaches to imaging, image-guided diagnosis and therapy, and
+other therapeutics. Importantly, the developers of such technologies
+often face additional challenges during the regulatory approval process,
+ requiring even more time and effort to commercialize such
+technologies.\n\n\tLarge pharmaceutical and biotechnology companies, as
+well as venture capital firms, have traditionally provided the resources
+ needed to fully develop and commercialize biomedical products and
+services initiated with Federal SBIR or STTR funding. More recently,
+however, many investors in life science technologies have shown a bias
+toward financing the continued development of relatively mature
+technologies at established companies, rather than the higher-risk,
+emerging technologies under development at many small businesses.
+Consequently, a number of SBIR and STTR awardees are successfully
+completing their Phase II activities, yet they are still unable to
+attract sufficient investment (by the end of the Phase II award) to
+continue the development of their product or service, thus exhausting
+their financial resources at a critical stage. The purpose of this FOA
+is to address this funding gap between the end of the SBIR or STTR Phase
+ II award and the point at which non-Federal financing can be secured
+for the subsequent stages of product development &amp;ndash; a phase
+often referred to as the &amp;ldquo;Valley of Death.&amp;rdquo;\n\n\tA
+number of public and private organizations have begun to recognize the
+challenges associated with the &amp;ldquo;Valley of Death&amp;rdquo; and
+ are taking steps to provide additional resources to advance a greater
+number of early-stage technologies toward commercialization.
+Importantly, many of these organizations are not only providing
+financial support but also establishing programs to provide
+commercialization guidance. For example, in the area of drug
+development, a number of major pharmaceutical firms have developed
+corporate venture funds focused on supporting projects in the
+pre-clinical stages of development, and some of these firms have
+established technology incubators to provide regulatory guidance. In
+addition, a growing number of universities are creating venture funds to
+ support innovative technologies developed by their resident
+investigators, and numerous state-sponsored technology funds have also
+been created across the U.S. to support start-up companies. Taken
+together, these programs can provide additional financing and
+commercialization support for SBIR\/STTR awardees that have received
+initial seed funding and a rigorous technical evaluation through the
+peer review process at the NIH and other Federal agencies. As such, a
+major goal of this FOA is to provide a platform to incentivize
+partnerships between Federally-funded SBIR or STTR awardees and a broad
+range of potential third-party investors.\n\n\tSpecific Objectives for
+SBIR Phase IIB Bridge Award Applications\n\n\tA. Independent Third-Party
+ Investor Funds\n\n\tThis FOA is specifically intended to encourage
+business relationships between applicant SBCs and third-party
+investors\/strategic partners who can provide substantial financing to
+help accelerate the commercialization of promising new products and
+services initiated with Federal SBIR or STTR funding. In particular,
+applicants are expected to leverage their previous SBIR or STTR support,
+ as well as the opportunity to compete for additional funding under this
+ FOA, to negotiate and attract third-party financing needed to advance a
+ product or service toward commercialization. The applicant&amp;rsquo;s
+ability to secure independent third-party investor funds that equal or
+exceed the total amount of the funds being requested over the entire
+Bridge Award project period will provide a measure of the commercial
+potential that is essential for the SBIR projects solicited under this
+FOA. This potential will be strongly considered in respective funding
+decisions. It is anticipated that many of the partnerships between
+applicant SBCs and third-party investors will involve a considerable
+level of project due diligence by the private sector, thereby increasing
+ the likelihood of commercial success for the funded projects. In light
+of these goals, the applicants are strongly encouraged to establish
+business relationships with investors and\/or strategic partners that
+have appropriate prior experience in the commercialization of emerging
+biomedical technologies.\n\n\tB. Scientific\/Technical Scope\n\n\tThe
+technical and commercial objectives described in the SBIR Phase IIB
+Bridge Award application MUST represent an extension of the development
+efforts that were pursued under a previous Federally-funded SBIR or STTR
+ Phase II award. It is essential that significant progress has been
+accomplished during the current\/preceding SBIR or STTR Phase II project
+ and also that the proposed product or service has significant
+commercial potential. The proposed product\/service must also have a
+clear advantage over existing and\/or competing products\/services and a
+ clearly defined path toward ultimate commercialization.\n\n\tIn
+particular, this FOA is specifically designed to provide additional
+support for products and services that require ultimate approval by a
+Federal regulatory agency.\n\n\tApplications received under this FOA
+must fall within at least one of three technical\/scientific areas: (1)
+Cancer Therapeutics; (2) Cancer Imaging Technologies, Interventional
+Devices, and In Vivo Diagnostics; or (3) In Vitro and Ex Vivo Cancer
+Diagnostics and Prognostics. The following descriptions provide
+additional details on each of these areas, as well as appropriate
+development activities to be proposed under this FOA.\n\n\tArea 1:
+Cancer Therapeutics\n\n\tProjects proposed under Area 1 may include (but
+ are not necessarily limited to) the development of the following
+categories of cancer therapeutics:\n\n\t\n\t\tSmall molecule anticancer
+agents;\n\t\n\t\tAnticancer biologics, including antibodies and
+therapeutic vaccines;\n\t\n\t\tMultifunctional cancer therapeutics based
+ on nanotechnology; and\/or\n\t\n\t\tAnticancer drug delivery
+systems.\n\n\n\tTherapeutic modalities other than those listed above may
+ also be considered.\n\n\tApplicants proposing projects under Area 1 are
+ generally expected to have completed most of the following steps in the
+ development process (as appropriate for the specific
+project):\n\n\t\n\t\tTarget validation;\n\t\n\t\tScreening of candidates
+ and identification of active entities (small molecules, biologics,
+etc.);\n\t\n\t\tConfirmation of hits based on repeat
+assay\/concentration response curve (CRC);\n\t\n\t\tStructure-Activity
+Relationship (SAR) studies;\n\t\n\t\tIdentification of lead compound(s)
+or biologic(s) suitable for further development;\n\t\n\t\tProcess
+development to support clinical manufacturing (e.g., scale-up
+feasibility);\n\t\n\t\tIn vivo pharmacokinetics and toxicity
+studies;\n\t\n\t\tIn vivo preclinical efficacy studies;
+and\/or\n\t\n\t\tOther activities leading to the selection of a
+development candidate.\n\n\n\tFor projects pertaining to Area 1,
+applicants are expected to propose activities that will lead to the
+successful filing of an Investigational New Drug (IND) application, as
+well as clinical studies to support the filing of a New Drug Application
+ (NDA) and\/or Biological License Application (BLA).\n\n\tSpecific
+activities to be proposed will vary among applications. Appropriate
+activities that may be proposed for Area 1 include (but are not
+necessarily limited to) the following examples:\n\n\t\n\t\tDemonstration
+ of acceptable pharmacokinetics and
+pharmacodynamics;\n\t\n\t\tCompletion of in vivo preclinical efficacy
+studies (properly powered);\n\t\n\t\tDemonstration of acceptable safety
+(toxicity in rodents and large animals);\n\t\n\t\tManufacturing of
+acceptable clinical dosage form [i.e., meeting Good Manufacturing
+Practices (GMP) quality];\n\t\n\t\tOther R&amp;amp;D activities that
+might be needed to complete an IND application;\n\t\n\t\tHuman Proof of
+Concept (Phase I clinical trial); and\/or\n\t\n\t\tClinical Proof of
+Concept (Phase II clinical trial).\n\n\n\tOther R&amp;amp;D activities
+needed to meet the requirements and expectations of relevant regulatory
+agencies may also be proposed, as necessary and required for
+commercialization.\n\n\tArea 2: Cancer Imaging Technologies,
+Interventional Devices &amp;amp; In Vivo Diagnostics\n\n\tProjects
+proposed under Area 2 may include (but are not necessarily limited to)
+the development of the following categories of cancer imaging
+technologies, interventional devices and in vivo
+diagnostics:\n\n\t\n\t\tMedical devices for in vivo cancer imaging
+and\/or image-guided interventions (e.g., systems for image-guided
+surgery);\n\t\n\t\tRadiation therapy devices and other ablative
+techniques;\n\t\n\t\tCancer imaging agents, including imaging
+radiopharmaceuticals and nanotechnology-based contrast
+agents;\n\t\n\t\tDevices and technologies for in vivo cancer
+diagnostics; and\/or\n\t\n\t\tDevices and technologies that directly
+enable the delivery of cancer therapies.\n\n\n\tCancer imaging
+modalities and interventional devices\/technologies other than those
+listed above may also be considered.\n\n\tApplicants proposing projects
+under Area 2 are generally expected to have completed the following
+steps in the development process (as appropriate for the specific
+project):\n\n\t\n\t\tDevelopment of a prototype system with desired
+functionality;\n\t\n\t\tMeasurements and\/or phantom studies to
+characterize system parameters;\n\t\n\t\tInitiated efficacy studies in
+an animal model; and\n\t\n\t\tInitiated transfer of the
+technology\/device to manufacturing.\n\n\n\tFor projects pertaining to
+Area 2, applicants are expected to propose activities that will lead to
+the successful filing of a 510(k) application, Premarket Approval (PMA)
+application, Investigational Device Exemption (IDE) application, and\/or
+ the successful approval of a study protocol by the Radioactive Drug
+Research Committee (RDRC).\n\n\tSpecific activities to be proposed will
+vary among applications. Appropriate activities that may be proposed for
+ Area 2 include (but are not necessarily limited to) the following
+examples:\n\n\t\n\t\tEfficacy studies in an animal
+model;\n\t\n\t\tProcess development for manufacturing;\n\t\n\t\tGMP\/QS
+manufacturing;\n\t\n\t\tVerification of the
+classification;\n\t\n\t\tNon-clinical safety studies (e.g., toxicology,
+biocompatibility); and\/or\n\t\n\t\tClinical trials.\n\n\n\tOther
+R&amp;amp;D activities needed to meet the requirements and expectations
+of relevant regulatory agencies may also be proposed, as necessary and
+required for commercialization of the technology.\n\n\tArea 3: In Vitro
+and Ex Vivo Cancer Diagnostics and Prognostics\n\n\tProjects proposed
+under Area 3 may include (but are not necessarily limited to) the
+development of the following categories of in vitro and ex vivo cancer
+diagnostics and prognostics:\n\n\t\n\t\tMolecular diagnostics and
+prognostics, including in vitro diagnostic multivariate index assays
+(IVDMIA);\n\t\n\t\tImage analysis tools for diagnosis;
+and\/or\n\t\n\t\tSpectroscopic techniques for in vitro and ex vivo
+tissue analysis.\n\n\n\tIn vitro and ex vivo cancer diagnostic and
+prognostic technologies other than those listed above may also be
+considered. Prognostic technologies may be focused on (predicting)
+disease progression, response to therapy, or both.\n\n\tApplicants
+proposing projects under Area 3 are generally expected to have completed
+ the following steps in the development process (as appropriate for the
+specific project):\n\n\t\n\t\tIdentification and development of a
+selective biomarker(s) for the detection of cancer;\n\t\n\t\tDesign and
+development of a prototype system\/assay;\n\t\n\t\tCharacterization of
+the system\/assay in terms of reproducibility, variability, and
+accuracy;\n\t\n\t\tDevelopment of a qualified assay for the biomarker
+that is applicable in the clinical setting; and\n\t\n\t\tInitiated
+validation studies in a relevant patient population(s).\n\n\n\tFor
+projects pertaining to scientific Area 3, applicants are expected to
+propose activities that will lead to the successful filing of a 510(k)
+application, Premarket Approval (PMA) application, and\/or
+Investigational Device Exemption (IDE) application, as needed for the
+specific technology\/system\/assay. In general, for scientific Area 3,
+applicants are expected to propose activities that address any relevant
+requirements for clinical validation and regulatory approval, as
+necessary and required for commercialization of the
+technology.\n\n\tResponsiveness\n\n\tTo be responsive to this FOA, the
+development activities completed under the previous SBIR or STTR Phase
+II award MUST provide the appropriate technical foundation to justify
+continued development of the technology for a cancer-relevant
+indication\/use. Platform technologies that were initially developed for
+ a non-cancer indication\/use (e.g., SBIR or STTR Phase II projects
+funded by an NIH Institute\/Center other than the NCI, or SBIR or STTR
+Phase II projects funded by a Federal agency other than the NIH) may be
+responsive only if the earlier data demonstrate technical
+proof-of-concept that is scientifically relevant to the cancer
+indication\/use. To be responsive under this FOA, the aims of the
+project must focus on a cancer-relevant indication\/use as the primary
+product or service.&amp;nbsp;\n",
+        "agency": "Department of Health and Human Services",
+        "phase": "Phase II",
+        "program": "SBIR",
+        "release_date": "March 13, 2015",
+        "open_date": "April 13, 2015",
+        "close_date": "May 13, 2015",
+        "url":
+"http:\/\/grants.nih.gov\/grants\/guide\/rfa-files\/RFA-CA-15-010.html"
+    },
+    {
+        "topic_name": "Micro-scale Optimized Solar-Cell Arrays with
+Integrated Concentration (MOSAIC)",
+        "description": "",
+        "agency": "Department of Energy,ARPA-E,Department of
+Energy,Department of Energy,ARPA-E",
+        "phase": "Phase I,Phase II",
+        "program": "SBIR",
+        "release_date": "December 08, 2015",
+        "open_date": "December 08, 2015",
+        "close_date": "May 07, 2015",
+        "url": ""
+    },
+    {
+        "topic_name": "Program Description",
+        "description": "\n\tThe U.S. Department of Agriculture (USDA)
+invites previous USDA Small Business Innovation Research (SBIR) Phase I
+awardees to apply for Phase II funding under this program solicitation.
+Phase II awards are only provided to those Phase I awardees that meet
+the eligibility requirements of a Phase II project. To be eligible for a
+ Phase II award, an applicant must have been funded by the USDA SBIR
+program as a Phase I project and have not previously applied for Phase
+II funding under this program. See section 1.4 of this solicitation for
+other eligibility requirements.\n",
+        "agency": "Department of Agriculture",
+        "phase": "Phase II",
+        "program": "SBIR",
+        "release_date": "December 30, 2014",
+        "open_date": "December 30, 2014",
+        "close_date": "February 26, 2015",
+        "url":
+"http:\/\/www.nifa.usda.gov\/funding\/rfas\/sbir_rfa.html"
+    },
+    {
+        "topic_name": "HHS SBIR RFA-AI-14-049",
+        "description": "\n\tThe SBIR\/STTR Programs were recently
+reauthorized by the United States Congress with the SBIR\/STTR
+Reauthorization Act of 2011(P.L. 112-81).&amp;nbsp; One change that was
+made to the SBIR program in this reauthorization was the authority for
+certain participating federal agencies to &amp;lsquo;issue a Phase II
+award to a small business concern that did not receive a Phase I award
+for that research\/research &amp;amp; development.&amp;nbsp; This is a
+so-called &amp;lsquo;Direct-to-Phase II&amp;rsquo; SBIR award.&amp;nbsp;
+ This authority would permit SBCs to submit Direct-to-Phase-II SBIR
+applications, if the small business had performed the Phase I stage-type
+ of research through other funding sources.&amp;nbsp; The legislative
+rationale for permitting the Direct-to-Phase II&amp;nbsp; award is to
+allow a SBC that has already built a technology prototype&amp;nbsp; and
+tested its feasibility (i.e. completed Phase-I-type R&amp;amp;D) to move
+ directly into a Phase-II-type R&amp;amp;D that tests the functional
+viability of the prototype according to scientific methods and potential
+ for commercial development. The Direct-to-Phase-II SBIR mechanism
+eliminates the need for the SBCs to propose additional small feasibility
+ studies, if the technology is ready for the Phase II stage of
+development.&amp;nbsp; The Direct-to-Phase II authority is not available
+ to the STTR program.\n\n\tPurpose\n\n\tThe goal of this FOA is to move
+commercially-viable diagnostic inventions from the NIAID and NIDDK
+intramural research laboratories into the marketplace. This FOA solicits
+ Small Business Innovation Research (SBIR) grant applications from Small
+ Business Concerns (SBCs) for projects that further develop and
+commercialize such inventions. Any project that fits within the NIAID
+and NIDDK mission that relies on the use of a NIAID or NIDDK intramural
+invention included on the list of inventions referenced below, is
+eligible for this award.\n\n\tNIDDK&amp;#39;s acceptance of Direct Phase
+ II applications is limited to this Funding Opportunity Announcement and
+ is not otherwise applicable for NIDDK SBIR applications.\n\n\tThis FOA
+will not accept &amp;lsquo;regular&amp;rsquo; Phase II submissions from
+SBCs that have received a Phase I SBIR or STTR award from NIH or any
+other agency that participates in the SBIR\/STTR programs.&amp;nbsp; For
+ this FOA, it is expected that the technology, prototype, or method will
+ have passed the proof of principle stage and that the product has
+demonstrated feasibility and supports a Phase II effort.&amp;nbsp; Data
+or evidence of the capability, completeness of design, and efficacy must
+ be provided in the application, along with the rationale for selection
+of the criteria used to validate the technology, prototype, or method,
+similar to a Phase I final report required in standard Phase II
+applications.\n\n\tThe NIAID Division of Intramural Research (DIR) is a
+component of&amp;nbsp;NIAID, whose mission is to conduct and support
+basic and applied research to better understand, treat, and ultimately
+prevent infectious, immunologic, and allergic diseases. DIR scientists
+study all aspects of infectious diseases, including the causative agent,
+ vectors, and pathogenesis in human and animal hosts. Clinical research
+also is integral to the DIR mission, enabling key laboratory discoveries
+ to be rapidly translated into methods to prevent, diagnose, or treat
+disease.\n\n\tThe NIDDK Intramural Research Program (IRP) is a component
+ of NIDDK, whose mission is to conduct biomedical research and training
+related to diabetes mellitus; endocrine, bone, and metabolic diseases;
+digestive diseases, including liver diseases and nutritional disorders;
+and kidney, urologic, and hematologic diseases.\n\n\tThe Technology
+Transfer and Intellectual Property Office (TTIPO) at NIAID furthers
+NIAID&amp;rsquo;s mission by fostering collaborations of NIAID
+scientists with partners in industry, academia, nonprofits, and other
+government agencies and facilitates the exchange of research materials
+and information.\n\n\tThe project should be relevant to the
+Institute&amp;#39;s mission and likely to benefit (as measured by moving
+ product development forward) small business concerns. Projects that fit
+ within the NIAID or NIDDK mission on diagnostics and make use of these
+NIAID or NIDDK Intramural research inventions are eligible for this
+award.\n\n\tThis FOA applies to a number of diagnostic inventions
+originating from the NIAID intramural laboratories and one invention
+from NIDDK for which the US Government has various levels of patent
+protection. These include inventions that can be developed to detect the
+ following infectious disease pathogens: Anthrax, dengue virus types
+1-4, human immunodeficiency virus (HIV), Hepatitis A Virus (HAV),
+Hepatitis E Virus (HEV), lymphatic filariasis or negative strand RNA
+viruses (such as Ebola virus and Marburg virus). &amp;nbsp;Inventions
+are also available that can be adapted for use in high throughput
+screening procedures to identify drugs to treat infectious diseases such
+ as Human metapneumovirus, Hepatitis C Virus (HCV) or HEV. Outside the
+infectious diseases area, an additional invention may potentially be
+used in finding early cancers by detection of BORIS (Brother of
+Regulator of Imprinted Sites).\n\n\tFor more details on these
+inventions, please see a list of eligible inventions at the SBIR-TT
+NIAID Diagnostic page.\n\n\tApplications that do not relate to the list
+of inventions mentioned above will not be considered responsive and will
+ not be reviewed.\n\n\tThis FOA solicits applications focusing on
+collaborations with NIAID or NIDDK intramural scientists\/inventors that
+ address development of NIAID or NIDDK intramural diagnostic inventions.
+ Applicants are strongly encouraged to contact the Scientific\/Research
+Contact(s) prior to submitting any application. During the SBIR award
+period, an NIAID or NIDDK intramural investigator\/inventor may provide
+assistance in a collaborative manner by providing, reagents and\/or
+discussions. No SBIR funds may be used to support the NIAID or NIDDK
+intramural investigator or to support the NIAID or NIDDK intramural
+program.&amp;nbsp; If collaboration with an intramural
+scientist\/inventor is not applicable, the SBC should explain this in
+the SBIR application.\n\n\tIf selected for SBIR funding the SBC will be
+granted a royalty-free, non-exclusive, internal research-use license to
+the United States Government&amp;rsquo;s intellectual property for the
+eligible inventions from the NIAID or NIDDK intramural programs, with
+the intent that the SBC will develop the technology into a commercial
+product to benefit the public, consistent with NIAID&amp;#39;s and
+NIDDK&amp;rsquo;s missions. The license will be for the term of award
+and within the field of use of the SBIR award.\n\n\tFor more information
+ please check The Small Business Innovation Research -Technology
+Transfer (SBIR-TT) FAQs page.\n",
+        "agency": "Department of Health and Human Services",
+        "phase": "Phase II",
+        "program": "SBIR",
+        "release_date": "July 02, 2014",
+        "open_date": "October 14, 2014",
+        "close_date": "November 14, 2014",
+        "url":
+"http:\/\/grants.nih.gov\/grants\/guide\/rfa-files\/RFA-AI-14-049.html"
+    },
+    {
+        "topic_name": "HHS SBIR RFA-HD-15-012",
+        "description": "\n\tThe purpose of this FOA is to support
+projects that demonstrate the presence of protein biomarkers that are
+related to brain structure or neurological function in patients in the
+chronic stages of traumatic brain injury (CBI).&amp;nbsp; The research
+will provide anatomical evidence for changes in neurological, cognitive
+or emotional status seen in the years that follow brain trauma, and may
+serve as surrogate markers for recovery or
+decline.\n\n\tBackground\n\n\tThe Centers for Disease Control and
+Prevention estimates that between 1.7 and 2.5 million traumatic brain
+injuries (TBI) occur in the United States each year. Estimates of the
+prevalence of disability from TBI varies, but is believed to be perhaps
+3% of the population in the U.S. A single moderate or severe injury to
+the brain has long-term consequences. &amp;nbsp;About 70% of mild TBIs
+are believed to have temporary or limited sequelae; however, both
+clinical and basic science evidence suggest that repeated mild TBIs
+occurring over an extended period of time (i.e. months or years) result
+in cumulative neurological and cognitive deficits. Repeated mild TBIs
+occurring within a short period of time (i.e., hours, days, weeks) can
+be catastrophic or even fatal.\n\n\tThe consequences of TBI include a
+wide range of functional changes that affect thinking, sensation, motor
+skills, language, and emotion. TBI is a leading cause of epilepsy, and
+increases the risk for neurodegenerative disorders such as
+Alzheimer&amp;rsquo;s disease, Parkinson&amp;rsquo;s disease, ALS and
+other brain disorders that become more prevalent with age. Data from the
+ TBI Model Systems National Database, supported by the National
+Institute of Disability and Rehabilitation Research, suggest that
+functional deterioration is common for long-term global outcomes after
+TBI. Injury to the brain can evolve into a lifelong health condition,
+which can be termed chronic brain injury (CBI).&amp;nbsp;\n\n\tTo
+improve function and maintain participation in society, CBI must be
+identified as early as possible in its course, and more actively managed
+ clinically. Investigators in rehabilitation science and clinical
+practice acknowledge that brain trauma often leads to permanent
+impairments; however, research and intervention paradigms are often
+aimed at early post-injury periods. How can the long-term course be
+studied and modified?&amp;nbsp; Unfortunately, it is not currently
+possible to predict the time course for functional change, or the
+deficits that may newly emerge or grow more serious.&amp;nbsp; Use of
+blood-based biomarkers to assess deterioration, stability or improvement
+ would assist in both researching and treating CBI. Design of
+pharmaceutical or psychosocial interventions for CBI is possible;
+however, end points for brain injury trials are often based on lengthy
+neuropsychological testing or subjective outcome scales. Development of
+biological markers using an easily obtained blood-based sample would
+greatly facilitate clinical trials of interventions for CBI, and speed
+up progress toward treatment.\n\n\tReports have been published of
+several blood-based biomarkers associated with acute stages of
+TBI.&amp;nbsp; Protein markers that have been linked to TBI include tau,
+ amyloids, myelin basic protein, neurofilament light and heavy
+polypeptides, spectrin breakdown products, ubiquitin c-terminal
+hydrolase isoenzyme L1, GFAP breakdown products, interleukins,
+neuron-specific enolase and S100beta. Also, there is wide interest in
+peripheral blood mononuclear small noncoding RNA molecules (microRNA),
+inflammatory response molecules, as well as the use of gene arrays for
+clues to other targets. To date, most of this exploration is aimed at
+stages of injury up to hours, days or perhaps even a few weeks after
+TBI. The clinical rationale for discovery of the acute biomarkers
+includes decision-making about return to play in sports, fitness for
+combat duty, or identification of patients for inclusion in clinical
+trials of neuroprotective agents.&amp;nbsp; The same attention is
+required for CBI.\n\n\tThese acute stage studies could certainly inform
+the search for blood-based biomarkers of CBI, where a second wave of
+injury (i.e. apoptosis, necrosis, loss of white matter, glial scarring,
+inflammation) could well take place. The chronic stages of injury must
+be examined so that interventions can be instituted as soon as possible
+for patients who might be at risk for mental or physical
+deterioration.&amp;nbsp; In addition, as with acute markers, biomarkers
+for changes in the longer term stages of injury may be used as secondary
+ or surrogate outcomes in clinical trials of new pharmaceutical, device
+or rehabilitation therapies for CBI.&amp;nbsp;\n\n\tAreas of interest
+include but are not limited to:\n\n\t\n\t\tDiscover and demonstrate the
+pattern of brain-specific proteins levels in peripheral blood in
+patients with CBI\n\t\n\t\tConfirm utility or specificity of blood-based
+ markers through comparison of results for blood-based protein markers
+to imaging profiles and\/or neuropsychological test in patients with
+CBI\n\t\n\t\tExplore and validate new technologies such as gene arrays
+or other expression-based platforms to discover new blood-based
+biomarkers of CBI.\n\t\n\t\tDevelop new approaches to discover and
+validate non-protein biomarkers for CBI in peripheral blood including
+but not limited to lipid profiles, micro-RNAs, or GWAS
+study\n\t\n\t\tDemonstrate effective assessment of protein or biological
+ products characteristics of other body systems that may have diagnostic
+ patterns of severity of CBI, such as adhesion molecules, growth
+factors, endocrine components, signaling pathways, or components of the
+immune system\n\n\n\tBoth adults and children (aged 21 years or less)
+may be included as subjects; however, blood-based biomarkers may be
+different for age groups and developmental stages throughout the
+lifespan.&amp;nbsp; Applicants must provide clear justification for
+selection of biomarkers for particular patient populations, with
+age-appropriate controls.&amp;nbsp;\n\n\tThe primary focus of the
+studies submitted in response to this FOA must concentrate beyond
+initial brain pathophysiology.&amp;nbsp; The focus should not be on
+primary neurodegenerative or neurodevelopmental disorders per
+se.&amp;nbsp; This FOA seeks only clinical research in living human
+subjects; studies in animal models or post-mortem specimens are not
+responsive to the FOA.&amp;nbsp;&amp;nbsp;\n",
+        "agency": "Department of Health and Human Services",
+        "phase": "Phase II",
+        "program": "SBIR",
+        "release_date": "June 25, 2014",
+        "open_date": "July 29, 2014",
+        "close_date": "August 29, 2014",
+        "url":
+"http:\/\/grants.nih.gov\/grants\/guide\/rfa-files\/RFA-HD-15-012.html"
+    },
+    {
+        "topic_name": "HHS SBIR RFA-CA-14-002",
+        "description": "\n\tPurpose\n\n\tThe Small Business Innovation
+Research (SBIR) Program is an important mechanism by which the National
+Institutes of Health (NIH) and other Federal agencies help bring
+innovative solutions to public health challenges. A major objective of
+the Federal SBIR Program is to facilitate the commercialization of
+technologies developed by small business concerns (SBCs). Yet, the
+development of medical biotechnology products is often impeded by a
+significant funding gap, known as the &amp;ldquo;Valley of
+Death,&amp;rdquo; between the end of the SBIR or STTR Phase II award and
+ the commercialization stage. This Funding Opportunity Announcement
+(FOA) solicits SBIR grant applications from SBCs to support later stage
+research and development (referred to as Phase IIB) for projects that
+were previously funded under SBIR or STTR Phase II awards from any
+Federal agency. The goal of this FOA and Phase IIB awards is to assist
+applicants in pursuing the next appropriate milestone(s) necessary to
+advance a product or service along a promising commercialization
+pathway.\n\n\tTo be responsive to this FOA, proposed projects MUST be
+applicable to at least one of the following technical\/scientific
+areas:\n\n\t(1) Cancer Therapeutics;\n\n\t(2) Cancer Imaging
+Technologies, Interventional Devices, and In Vivo Diagnostics;
+and\/or\n\n\t(3) In Vitro and Ex Vivo Cancer Diagnostics and
+Prognostics.\n\n\tThese Bridge Awards are designed to facilitate the
+continuation of promising SBIR or STTR Phase II projects in order to
+pursue the next appropriate milestone(s) toward ultimate
+commercialization. To achieve this goal, this FOA is designed to promote
+ partnerships between Federally-funded SBIR or STTR Phase II awardees
+and third-party investors and\/or strategic partners.\n\n\tIn
+particular, competitive preference and funding priority will be given to
+ applications deemed likely to result in a commercial product or service
+ as indicated by the applicant&amp;rsquo;s ability to secure substantial
+ independent third-party investor funds (i.e., third-party funds that
+equal or exceed the requested NCI funds). NCI support is thus intended
+to benefit cancer patients by accelerating the development of novel
+cancer-relevant products and services toward
+commercialization.\n\n\tThis FOA is specifically intended to provide
+additional support for products and services that require ultimate
+approval by a Federal regulatory agency; therefore, proposed projects
+may address preclinical and\/or clinical stages of development
+(including clinical trials).\n\n\tBackground\n\n\tSince its inception in
+ 1982, the SBIR program at the NIH (and other Federal agencies) has
+provided the small business community with critical seed funding to
+support the development of a broad array of commercial products and
+services for the detection, diagnosis, treatment, and prevention of
+disease. The SBIR Program is structured in three phases. The main
+objective in Phase I is to establish the technical merit and feasibility
+ of the proposed research and development (R&amp;amp;D) efforts, whereas
+ in Phase II it is to continue the R&amp;amp;D efforts to advance the
+technology toward ultimate commercialization. The objective in Phase III
+ is for the small business to fully commercialize their product or
+service using non-SBIR funds. However, many of the early-stage projects
+initiated with SBIR or STTR funding require considerable financing
+beyond the SBIR or STTR Phase II award to achieve commercialization. In
+particular, the development of therapeutics and medical devices often
+requires several years and substantial capital investments, due in large
+ part to the costs associated with conducting clinical trials and\/or
+other steps mandated by the Federal regulatory approval
+process.\n\n\tAmong the areas of R&amp;amp;D supported by the Federal
+SBIR program, cancer therapeutics, imaging technologies, interventional
+devices, diagnostics and prognostics typically require substantial
+levels of additional financing beyond the SBIR Phase I and Phase II
+funding. Moreover, a number of emerging products in these areas are
+becoming increasingly complex due to the technological advances in
+multi-disciplinary fields. For example, new products may involve
+measurements of both physical and molecular signatures, combine
+device(s) and molecular probe(s), or perform dual functions of diagnosis
+ and therapy. These products are referred to as &amp;ldquo;combined
+technologies&amp;rdquo; by the Food and Drug Administration (FDA), and
+examples in oncology include those related to genomics, proteomics,
+certain approaches to imaging, image-guided diagnosis and therapy, and
+other therapeutics. Importantly, the developers of such technologies
+often face additional challenges during the regulatory approval process,
+ requiring even more time and effort to commercialize such
+technologies.\n\n\tLarge pharmaceutical and biotechnology companies, as
+well as venture capital firms, have traditionally provided the resources
+ needed to fully develop and commercialize biomedical products and
+services initiated with Federal SBIR or STTR funding. More recently,
+however, many investors in life science technologies have shown a bias
+toward financing the continued development of relatively mature
+technologies at established companies, rather than the higher-risk,
+emerging technologies under development at many small businesses.
+Consequently, a number of SBIR awardees are successfully completing
+their Phase II activities, yet they are still unable to attract
+sufficient investment (by the end of the Phase II award) to continue the
+ development of their product or service, thus exhausting their
+financial resources at a critical stage. The purpose of this FOA is to
+address this funding gap between the end of the SBIR or STTR Phase II
+award and the point at which non-Federal financing can be secured for
+the subsequent stages of product development &amp;ndash; a phase often
+referred to as the &amp;ldquo;Valley of Death.&amp;rdquo;\n\n\tA number
+of public and private organizations have begun to recognize the
+challenges associated with the &amp;ldquo;Valley of Death&amp;rdquo; and
+ are taking steps to provide additional resources to advance a greater
+number of early-stage technologies toward commercialization.
+Importantly, many of these organizations are not only providing
+financial support but also establishing programs to provide
+commercialization guidance. For example, in the area of drug
+development, a number of major pharmaceutical firms have developed
+corporate venture funds focused on supporting projects in the
+pre-clinical stages of development, and some of these firms have
+established technology incubators to provide regulatory guidance. In
+addition, a growing number of universities are creating venture funds to
+ support innovative technologies developed by their resident
+investigators, and numerous state-sponsored technology funds have also
+been created across the U.S. to support start-up companies. Taken
+together, these programs can provide additional financing and
+commercialization support for SBIR awardees that have received initial
+seed funding and a rigorous technical evaluation through the peer review
+ process at the NIH and other Federal agencies. As such, a major goal of
+ this FOA is to provide a platform to incentivize partnerships between
+Federally-funded SBIR or STTR awardees and a broad range of potential
+third-party investors.\n\n\tSpecific Objectives for SBIR Phase IIB
+Bridge Award Applications\n\n\tA. Independent Third-Party Investor Funds
+ \n\n\tThis FOA is specifically intended to encourage business
+relationships between applicant SBCs and third-party
+investors\/strategic partners who can provide substantial financing to
+help accelerate the commercialization of promising new products and
+services initiated with Federal SBIR or STTR funding. In particular,
+applicants are expected to leverage their previous SBIR or STTR support,
+ as well as the opportunity to compete for additional funding under this
+ FOA, to negotiate and attract third-party financing needed to advance a
+ product or service toward commercialization. The applicant&amp;rsquo;s
+ability to secure independent third-party investor funds that equal or
+exceed the total amount of the funds being requested over the entire
+Bridge Award project period will provide a measure of the commercial
+potential that is essential for the SBIR projects solicited under this
+FOA. This potential will be strongly considered in respective funding
+decisions. It is anticipated that many of the partnerships between
+applicant SBCs and third-party investors will involve a considerable
+level of project due diligence by the private sector, thereby increasing
+ the likelihood of commercial success for the funded projects. In light
+of these goals, the applicants are strongly encouraged to establish
+business relationships with investors and\/or strategic partners that
+have appropriate prior experience in the commercialization of emerging
+biomedical technologies.\n\n\tB. Scientific\/Technical Scope\n\n\tThe
+technical and commercial objectives described in the SBIR Phase IIB
+Bridge Award application MUST represent an extension of the development
+efforts that were pursued under a previous Federally-funded SBIR or STTR
+ Phase II award. It is essential that significant progress has been
+accomplished during the current\/preceding SBIR or STTR Phase II project
+ and also that the proposed product or service has significant
+commercial potential. Applicants should also demonstrate that the
+proposed product\/service has a clear advantage over existing and\/or
+competing products\/services and should clearly define an appropriate
+path toward ultimate commercialization.\n\n\tIn particular, this FOA is
+specifically designed to provide additional support for products and
+services that require ultimate approval by a Federal regulatory
+agency.\n\n\tApplications received under this FOA must fall within at
+least one of three technical\/scientific areas: (1) Cancer Therapeutics;
+ (2) Cancer Imaging Technologies, Interventional Devices, and In Vivo
+Diagnostics; or (3) In Vitro and Ex Vivo Cancer Diagnostics and
+Prognostics. The following descriptions provide additional details on
+each of these areas, as well as appropriate development activities to be
+ proposed under this FOA.\n\n\tArea 1: Cancer Therapeutics\n\n\tProjects
+ proposed under Area 1 may include (but are not necessarily limited to)
+the development of the following categories of cancer
+therapeutics:\n\n\t\n\t\tSmall molecule anticancer
+agents;\n\t\n\t\tAnticancer biologics, including antibodies and
+therapeutic vaccines;\n\t\n\t\tMultifunctional cancer therapeutics based
+ on nanotechnology; and\/or\n\t\n\t\tAnticancer drug delivery
+systems.\n\n\n\tTherapeutic modalities other than those listed above may
+ also be considered.\n\n\tApplicants proposing projects under Area 1 are
+ generally expected to have completed most of the following steps in the
+ development process (as appropriate for the specific
+project):\n\n\t\n\t\tTarget validation;\n\t\n\t\tScreening of candidates
+ and identification of active entities (small molecules, biologics,
+etc.);\n\t\n\t\tConfirmation of hits based on repeat
+assay\/concentration response curve (CRC);\n\t\n\t\tStructure-Activity
+Relationship (SAR) studies;\n\t\n\t\tIdentification of lead compound(s)
+or biologic(s) suitable for further development;\n\t\n\t\tProcess
+development to support clinical manufacturing (e.g., scale-up
+feasibility);\n\t\n\t\tIn vivo pharmacokinetics and toxicity
+studies;\n\t\n\t\tIn vivo preclinical efficacy studies;
+and\/or\n\t\n\t\tOther activities leading to the selection of a
+development candidate.\n\n\n\tFor projects pertaining to Area 1,
+applicants are expected to propose activities that will lead to the
+successful filing of an Investigational New Drug (IND) application, as
+well as clinical studies to support the filing of a New Drug Application
+ (NDA) and\/or Biological License Application (BLA).\n\n\tSpecific
+activities to be proposed will vary among applications. Appropriate
+activities that may be proposed for Area 1 include (but are not
+necessarily limited to) the following examples:\n\n\t\n\t\tDemonstration
+ of acceptable pharmacokinetics and
+pharmacodynamics;\n\t\n\t\tCompletion of in vivo preclinical efficacy
+studies (properly powered);\n\t\n\t\tDemonstration of acceptable safety
+(toxicity in rodents and large animals);\n\t\n\t\tManufacturing of
+acceptable clinical dosage form [i.e., meeting Good Manufacturing
+Practices (GMP) quality];\n\t\n\t\tOther R&amp;amp;D activities that
+might be needed to complete an IND application;\n\t\n\t\tHuman Proof of
+Concept (Phase I clinical trial); and\/or\n\t\n\t\tClinical Proof of
+Concept (Phase II clinical trial).\n\n\n\tOther R&amp;amp;D activities
+needed to meet the requirements and expectations of relevant regulatory
+agencies may also be proposed, as necessary and required for
+commercialization.\n\n\tArea 2: Cancer Imaging Technologies,
+Interventional Devices &amp;amp; In Vivo Diagnostics\n\n\tProjects
+proposed under Area 2 may include (but are not necessarily limited to)
+the development of the following categories of cancer imaging
+technologies, interventional devices and in vivo
+diagnostics:\n\n\t\n\t\tMedical devices for in vivo cancer imaging
+and\/or image-guided interventions (e.g., systems for image-guided
+surgery);\n\t\n\t\tRadiation therapy devices and other ablative
+techniques;\n\t\n\t\tCancer imaging agents, including imaging
+radiopharmaceuticals and nanotechnology-based contrast
+agents;\n\t\n\t\tDevices and technologies for in vivo cancer
+diagnostics; and\/or\n\t\n\t\tDevices and technologies that directly
+enable the delivery of cancer therapies.\n\n\n\tCancer imaging
+modalities and interventional devices\/technologies other than those
+listed above may also be considered.\n\n\tApplicants proposing projects
+under Area 2 are generally expected to have completed the following
+steps in the development process (as appropriate for the specific
+project):\n\n\t\n\t\tDevelopment of a prototype system with desired
+functionality;\n\t\n\t\tMeasurements and\/or phantom studies to
+characterize system parameters;\n\t\n\t\tInitiated efficacy studies in
+an animal model; and\n\t\n\t\tInitiated transfer of the
+technology\/device to manufacturing.\n\n\n\tFor projects pertaining to
+Area 2, applicants are expected to propose activities that will lead to
+the successful filing of a 510(k) application, Premarket Approval (PMA)
+application, Investigational Device Exemption (IDE) application, and\/or
+ the successful approval of a study protocol by the Radioactive Drug
+Research Committee (RDRC).\n\n\tSpecific activities to be proposed will
+vary among applications. Appropriate activities that may be proposed for
+ Area 2 include (but are not necessarily limited to) the following
+examples:\n\n\t\n\t\tEfficacy studies in an animal
+model;\n\t\n\t\tProcess development for manufacturing;\n\t\n\t\tGMP\/QS
+manufacturing;\n\t\n\t\tVerification of the
+classification;\n\t\n\t\tNon-clinical safety studies (e.g., toxicology,
+biocompatibility); and\/or\n\t\n\t\tClinical trials.\n\n\n\tOther
+R&amp;amp;D activities needed to meet the requirements and expectations
+of relevant regulatory agencies may also be proposed, as necessary and
+required for commercialization of the technology.\n\n\tArea 3: In Vitro
+and Ex Vivo Cancer Diagnostics and Prognostics\n\n\tProjects proposed
+under Area 3 may include (but are not necessarily limited to) the
+development of the following categories of in vitro and ex vivo cancer
+diagnostics and prognostics:\n\n\t\n\t\tMolecular diagnostics and
+prognostics, including in vitro diagnostic multivariate index assays
+(IVDMIA);\n\t\n\t\tImage analysis tools for diagnosis;
+and\/or\n\t\n\t\tSpectroscopic techniques for in vitro and ex vivo
+tissue analysis.\n\n\n\tIn vitro and ex vivo cancer diagnostic and
+prognostic technologies other than those listed above may also be
+considered. Prognostic technologies may be focused on (predicting)
+disease progression, response to therapy, or both.\n\n\tApplicants
+proposing projects under Area 3 are generally expected to have completed
+ the following steps in the development process (as appropriate for the
+specific project):\n\n\t\n\t\tIdentification and development of a
+selective biomarker(s) for the detection of cancer;\n\t\n\t\tDesign and
+development of a prototype system\/assay;\n\t\n\t\tCharacterization of
+the system\/assay in terms of reproducibility, variability, and
+accuracy;\n\t\n\t\tDevelopment of a qualified assay for the biomarker
+that is applicable in the clinical setting; and\n\t\n\t\tInitiated
+validation studies in a relevant patient population(s).\n\n\n\tFor
+projects pertaining to scientific Area 3, applicants are expected to
+propose activities that will lead to the successful filing of a 510(k)
+application, Premarket Approval (PMA) application, and\/or
+Investigational Device Exemption (IDE) application, as needed for the
+specific technology\/system\/assay. Thus, activities to be pursued under
+ this FOA should address any relevant requirements for clinical
+validation and regulatory approval, as necessary and required for
+commercialization of the technology.\n\n\tResponsiveness\n\n\tTo be
+responsive to this FOA, the development activities completed under the
+previous SBIR or STTR Phase II award MUST provide the appropriate
+technical foundation to justify continued development of the technology
+for a cancer-relevant indication\/use. &amp;nbsp;Platform technologies
+that were initially developed for a non-cancer indication\/use (e.g.,
+SBIR or STTR Phase II projects funded by an NIH Institute\/Center other
+than the NCI, or SBIR or STTR Phase II projects funded by a Federal
+agency other than the NIH) may be responsive only if the earlier data
+demonstrates technical proof-of-concept that is scientifically relevant
+to the cancer indication\/use.&amp;nbsp; To be responsive under this
+FOA, the aims of the project must focus on a cancer-relevant
+indication\/use as the primary product or service.\n",
+        "agency": "Department of Health and Human Services",
+        "phase": "Phase II",
+        "program": "SBIR",
+        "release_date": "February 12, 2014",
+        "open_date": "March 21, 2014",
+        "close_date": "April 21, 2014",
+        "url":
+"http:\/\/grants.nih.gov\/grants\/guide\/rfa-files\/RFA-CA-14-002.html"
+    },
+    {
+        "topic_name": "Competing Renewal Awards of SBIR Phase IIB Grants
+ for Brain and Behavior Tools",
+        "description": "\n\tResearch Objectives\n\n\tThe National
+Institutes of Health (NIH) Blueprint for Neuroscience Research is a
+collaborative effort among the NIH Office of the Director and 15
+Institutes and Centers to accelerate the pace of discovery and
+understanding in neuroscience research
+(http:\/\/neuroscienceblueprint.nih.gov\/). This FOA is affiliated with
+the Neuroscience Blueprint, with Institutes and Centers participating
+independently, and with participation by Institutes that are not part of
+ the Neuroscience Blueprint.\n\n\tUntil now, Phase IIB competing renewal
+ SBIR grants have been encouraged for technologies that would ultimately
+ require federal regulatory approval (e.g., drug development). There
+are, however, important technologies that would not be subject to such
+regulation, but that still require extraordinary time and effort to
+develop. The purpose of this FOA is toencourage applications for
+competing renewals of existing Phase II grants which are supporting
+research and development of such technologies. The competing renewal
+award would provide up to an additional three years of support at total
+cost funding levels of up to $800,000 per year.\n\n\tTechnologies
+encouraged by this FOA fall into three broad categories, which are
+described, below:\n\n\tComplex instrumentation: This is instrumentation
+comprising several distinct parts that must work together. Very often
+the goal of such projects is to deliver turnkey products for
+researchers. For example, high density electroencephalography
+instrumentation includes electrode arrays, amplifiers, data analytic and
+ data visualization software, etc. Another example is non-invasive near
+infrared imaging instrumentation, which might include photon sources and
+ detectors, timing devices for delivering photons, amplifiers, and
+software. Some high throughput assay systems may fall into this
+category.\n\n\tClinical research tools: Such tools would include those
+that are developed for clinical research use that do not require any
+federal regulatory approval, but still require extensive development in
+order to demonstrate validity in a diverse population. For example,
+computerized patient assessment tools for mental health disorders that
+are sensitive to developmental change, gender and cultural diversity,
+variation in cognitive and behavioral functioning, hearing and\/or
+speech impairment, and co-morbidity with other disorders. These tools
+may include data from blood work, medical history, biobehavioral
+information, and functional capacity, with the biobehavioral\/functional
+ information collected through clinician to patient surveys, clinician
+to caregiver surveys or patient self-assessment surveys, or a
+combination of surveys.\n\n\tBehavioral interventions\/treatments:
+Evidence-based behavioral interventions can play a role in the treatment
+ of behavioral disorders. Novel therapies and novel means of providing
+these types of therapies (e.g., web-based tools) require not only their
+development, and small efficacy studies, but also extensive, large scale
+ testing to determine the treatments true effectiveness across diverse
+patient populations.\n\n\tIt is important to emphasize that the example
+provided in the preceding descriptions are meant only to be
+illustrative, and not exhaustive or exclusive of other technologies that
+ fall into what are intended to be broad categories.\n",
+        "agency": "Department of Health and Human Services",
+        "phase": "Phase II",
+        "program": "SBIR",
+        "release_date": "February 28, 2011",
+        "open_date": "March 05, 2011",
+        "close_date": "January 08, 2014",
+        "url":
+"http:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PA-11-135.html"
+    }
+]

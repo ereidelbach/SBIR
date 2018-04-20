@@ -1,2 +1,6 @@
 # ignore an entire directory
-/Data
+/Data/Agency
+/Data/Awards_API/Combined
+
+# ignore any files ending in .log
+*.log

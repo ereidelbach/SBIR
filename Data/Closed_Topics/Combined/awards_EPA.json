@@ -1,0 +1,93 @@
+[
+    {
+        "agency": [
+            "Environmental Protection Agency"
+        ],
+        "close_date": 1336017600,
+        "description": "EPA SBIR 2013 Phase I Solicitation",
+        "its_field_open_date": 1331784000,
+        "link": "https://www.sbir.gov/sbirsearch/detail/363743",
+        "release_date": 1331784000,
+        "source_url": "http://www.epa.gov/ncer/rfa/2013/2013_sbir_phase1.html",
+        "status": "closed",
+        "title": "EPA SBIR 2013 Phase I Solicitation"
+    },
+    {
+        "agency": [
+            "Environmental Protection Agency"
+        ],
+        "close_date": 1376366400,
+        "description": "EPA SBIR 2014 Phase I Solicitation",
+        "its_field_open_date": 1372305600,
+        "link": "https://www.sbir.gov/sbirsearch/detail/407045",
+        "release_date": 1372305600,
+        "source_url": "http://www.epa.gov/ncer/rfa/2014/2014_sbir_phase1.html",
+        "status": "closed",
+        "title": "EPA SBIR 2014 Phase I Solicitation"
+    },
+    {
+        "agency": [
+            "Environmental Protection Agency"
+        ],
+        "close_date": 1412827200,
+        "description": "EPA SBIR 2015 Phase I Solicitation",
+        "its_field_open_date": 1405483200,
+        "link": "https://www.sbir.gov/sbirsearch/detail/686287",
+        "release_date": 1405483200,
+        "source_url": "http://www.epa.gov/ncer/sbir",
+        "status": "closed",
+        "title": "EPA SBIR 2015 Phase I Solicitation"
+    },
+    {
+        "agency": [
+            "Environmental Protection Agency"
+        ],
+        "close_date": 1452747600,
+        "description": "EPA SBIR 2016 Phase I Solicitation",
+        "its_field_open_date": 1447822800,
+        "link": "https://www.sbir.gov/sbirsearch/detail/859875",
+        "release_date": 1447822800,
+        "source_url": "https://cfpub.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.rfatext/rfa_id/612",
+        "status": "closed",
+        "title": "EPA SBIR 2016 Phase I Solicitation"
+    },
+    {
+        "agency": [
+            "Environmental Protection Agency"
+        ],
+        "close_date": 1428552000,
+        "description": "EPA SBIR 2015 Phase II Solicitation",
+        "its_field_open_date": 1423717200,
+        "link": "https://www.sbir.gov/sbirsearch/detail/889209",
+        "release_date": 1423717200,
+        "source_url": null,
+        "status": "closed",
+        "title": "EPA SBIR 2015 Phase II Solicitation"
+    },
+    {
+        "agency": [
+            "Environmental Protection Agency"
+        ],
+        "close_date": 1476936000,
+        "description": "EPA SBIR 2017 Phase I Solicitation",
+        "its_field_open_date": 1472529600,
+        "link": "https://www.sbir.gov/sbirsearch/detail/1188353",
+        "release_date": 1472529600,
+        "source_url": "https://www.fedconnect.net/fedconnect?doc=SOL-NC-16-00038&agency=EPA",
+        "status": "closed",
+        "title": "EPA SBIR 2017 Phase I Solicitation"
+    },
+    {
+        "agency": [
+            "Environmental Protection Agency"
+        ],
+        "close_date": 1513659600,
+        "description": "EPA SBIR 2018 Phase I Solicitation",
+        "its_field_open_date": 1509422400,
+        "link": "https://www.sbir.gov/sbirsearch/detail/1313607",
+        "release_date": 1509422400,
+        "source_url": "https://www.epa.gov/sbir/sbir-funding-opportunities",
+        "status": "closed",
+        "title": "EPA SBIR 2018 Phase I Solicitation"
+    }
+]

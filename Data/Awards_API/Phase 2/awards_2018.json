@@ -1,0 +1,30 @@
+[
+    {
+        "abstract": "DESCRIPTION  provided by applicant   Rationale  Transplantation Medicine requires  arguably  the most complex set of molecular tests in all of laboratory medicine  The astounding diversity of the Human Leukocyte Antigen  HLA  gene locus is well known and has given rise to complex DNA based HLA allelotyping as the core technology for all Tissue Typing  The companion immunodiagnostics branch of Transplantation Medicine is even more intricate and is being used to detect antibodies against the HLA proteins themselves as a way to predict hyperacute graft rejection at the time of transplantation or over time  post transplant changes in donor specific anti HLA antibody levels  which is the determining indicator of the earliest stages of graft rejection   Any useful anti HLA antibody detection test must be capable of detecting one or more of nearly     possible serum borne neutralizing antibodies  each with a Class I or Class II HLA protein as its cognate antigen  The world wide market for anti HLA serology is in excess of $    million with a growth rate of     yr and is dominated by a single test provider  Thermo One Lambda  that sells a Luminex bead based anti HLA antibody test featuring beads coated with membrane protein extracts  In spite of their seminal market position  Key Opinion Leaders in the transplantation marketplace feel that the expensive Thermo One Lambda test has poor sensitivity  specificity and reproducibility   To solve the crucial Transplantation Testing problem\nin a way that will rapidly build market share  the core of this Phase II plan is to expand the ongoing partnership and commercial collaboration between Pure Protein LLC  PP   a company that has invented and holds intellectual property for a novel way to produce stable recombinant soluble HLA  sHLA  complexes in eukaryotic suspension cultures and GMSbiotech  GMS  a company that has developed and patented a unique approach to link large sets of metastable proteins like HLA  while retaining fully native protein folding  onto test surfaces in a microarray\nformat   Preliminary studies by PP andamp  GMS show extensive data demonstrating that the sHLA proteins  Class I andamp  Class II  manufactured by PP can be fabricated into a low cost microarray test using the GMS technology suite  The goal of this proposal is to complete design and fabrication of two microarray tests      EZScreenTM I  representing a set of     Class I recombinant sHLA protein probes and     EZScreenTM II  representing a set of     Class II recombinant sHLA probes  Upon completion of this Phase II  both kits will be ready for RUO product launch and the beginning of FDA review PUBLIC HEALTH RELEVANCE  A two year Phase II SBIR plan is proposed  focused on the development of a pair of microarray based tests for sera antibody detection which emerge against HLA proteins  comprising a fundamental improvement in the diagnostic side of Transplantation Serology  Upon completion of this plan  both tests and the companion software will be ready for Research Use only  RUO  product launch and to begin the FDA review process",
+        "agency": [
+            "Department of Health and Human Services",
+            "National Institutes of Health",
+            "Department of Health and Human Services"
+        ],
+        "firm": "GENOMICS USA, INC.",
+        "link": "https://www.sbir.gov/sbirsearch/detail/1164909",
+        "phase": "Phase II",
+        "program": "SBIR",
+        "reseach institution": null,
+        "title": "sHLA Protein Chip for Anti HLA Antibody Screening and Monitoring",
+        "year": 2018
+    },
+    {
+        "abstract": "This project develops a system that improves communication between a patient and their audiologist, simplify the fitting and tuning process by allowing patients to remotely record their hearing aid (HA) experience via a smartphone application. Currently, only 28.5% of individuals who could benefit from a HA actually wears one. The goal of this project is to improve patient satisfaction with their HA, with the aim to increase and prolong continued use. The objectives are: (1) Develop a smartphone application and wireless interface to low-level HA functionality; (2) develop a cloud-based back-end system with a web-based audiologist interface; and (3) evaluate system with end users through a human trial.",
+        "agency": [
+            "Department of Health and Human Services"
+        ],
+        "firm": "Innovative Design Labs Inc.",
+        "link": "https://www.sbir.gov/sbirsearch/detail/1430481",
+        "phase": "Phase II",
+        "program": "SBIR",
+        "reseach institution": null,
+        "title": "Improving Hearing Aid Satisfaction Through Remote Feedback and Settings Adjustments",
+        "year": 2018
+    }
+]
